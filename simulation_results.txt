@@ -11,7 +11,7 @@ Absorption Rate       | 0.85 (85.0%)
 
 
 Table 2: Evaporation Rates and Efficiencies
-Porosity | Evaporation Rate (kg/m²h) | Efficiency (%)
+Porosity | Evaporation Rate (kg/mh) | Efficiency (%)
 ---------|--------------------------|---------------
 0.3     | 3.206                 | 194.96
 0.6     | 5.096                 | 313.64
